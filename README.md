@@ -5,3 +5,5 @@
 - git ve github ogreniyorum ikinci kisim.
 
 - vscode uzerinden github'a baglandim.
+
+- pull request atamasi yaptim.   
