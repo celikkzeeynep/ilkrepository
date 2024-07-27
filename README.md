@@ -7,7 +7,6 @@
 
 - vscode uzerinden github'a baglandim.
 
-
 - vscode uzerinden, yeni branch'imle degisiklik yaptim.
 
 - vscode uzerinden github'a baglandim.
